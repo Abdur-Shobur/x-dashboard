@@ -1,0 +1,11 @@
+.react-date-picker__wrapper {
+  border: none;
+}
+
+.react-date-picker__calendar-button__icon {
+  stroke: #06b6d4;
+}
+
+.react-date-picker__clear-button__icon {
+  stroke: #06b6d4;
+}
